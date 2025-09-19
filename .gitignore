@@ -1,0 +1,15 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos temporários do Code::Blocks
+*.layout
+*.depend
+*.cbp.user
+
+# Arquivos de sistema (Windows)
+Thumbs.db
+*.exe
+*.o
+*.obj
+*.pdb
