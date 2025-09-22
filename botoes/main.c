@@ -30,7 +30,7 @@ int main() {
 }
 */
 
-
+// janela sdl funcionando
 #include <SDL3/SDL.h>
 #include <stdio.h>
 #include <string.h>
