@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1758579335 source:c:\users\brito\desktop\nano\ncurl\rede\main.c
+	<stdio.h>
+	<unistd.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+

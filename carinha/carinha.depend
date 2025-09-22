@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1758400406 source:c:\users\brito\desktop\nano\ncurl\carinha\main.c
+	"carinha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"glyph.h"
+
+1758392835 c:\users\brito\desktop\nano\ncurl\carinha\carinha.h
+
+1758393271 source:c:\users\brito\desktop\nano\ncurl\carinha\carinha.c
+	<stdio.h>
+	<unistd.h>
+	"carinha.h"
+
+1758399481 source:c:\users\brito\desktop\nano\ncurl\carinha\glyph_data.c
+	"glyph.h"
+
+1758400538 c:\users\brito\desktop\nano\ncurl\carinha\glyph.h
+
+1758395684 source:c:\users\brito\desktop\nano\ncurl\carinha\glyph_render.c
+	"glyph.h"
+	<stdio.h>
+
+1758400471 source:c:\users\brito\desktop\nano\ncurl\carinha\b.c
+	"glyph.h"
+
+1758402154 source:c:\users\brito\desktop\nano\ncurl\carinha\a.c
+	"glyph.h"
+
+1758400709 source:c:\users\brito\desktop\nano\ncurl\carinha\heart.c
+	"glyph.h"
+
+1758401167 source:c:\users\brito\desktop\nano\ncurl\carinha\v.c
+	"glyph.h"
+
+1758401059 source:c:\users\brito\desktop\nano\ncurl\carinha\y.c
+	"glyph.h"
+
