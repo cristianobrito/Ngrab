@@ -2,7 +2,8 @@
 #include <unistd.h>
 #include <stdlib.h> // system("clear") ou "cls"
 
-// animação de images
+// animação de images mais uma coisa
+// checkout main e master
 
 // ==================== IMAGENS E ANIMAÇÕES ====================
 void printHeart() {
