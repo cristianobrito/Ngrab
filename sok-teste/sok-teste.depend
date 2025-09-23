@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1758117958 source:c:\users\brito\desktop\nano\ncurl\sok-teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+
