@@ -2,6 +2,8 @@
 #include <unistd.h>
 #include <stdlib.h> // system("clear") ou "cls"
 
+// animação de images
+
 // ==================== IMAGENS E ANIMAÇÕES ====================
 void printHeart() {
     printf("  **   **  \n");
